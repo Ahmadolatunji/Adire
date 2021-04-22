@@ -1,2 +1,2 @@
 # Adire
-Adire clith for using (tie and dye) 
+Adire cloth for using (tie and dye) 
